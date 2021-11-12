@@ -257,6 +257,10 @@
 
 ## 三、视觉化思考：
 
+**视觉化讲述商业模式：**https://www.bilibili.com/video/BV1PQ4y1U7Av?share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1636680762&unique_k=I9SLuo
+
+**讨论花絮：**https://www.bilibili.com/video/BV1sq4y1u7zc?share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1636680772&unique_k=3QLMeZ
+
 ### 重要合作：
 
 ![](./Img/重要合作可视化.png)
