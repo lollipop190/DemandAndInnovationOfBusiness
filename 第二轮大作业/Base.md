@@ -261,6 +261,10 @@
 
 **讨论花絮：**https://www.bilibili.com/video/BV1sq4y1u7zc?share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1636680772&unique_k=3QLMeZ
 
+
+
+![img](Img/画布.png)
+
 ### 重要合作：
 
 ![](./Img/重要合作可视化.png)
