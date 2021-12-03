@@ -602,7 +602,7 @@
 
 ### 探索成本的影响（主要探究方向）
 
-<img src="../各种图/relation.png" alt="img" style="zoom:50%;" />
+<img src="../各种图/relation.jpg" alt="img" style="zoom:50%;" />
 
 
 
