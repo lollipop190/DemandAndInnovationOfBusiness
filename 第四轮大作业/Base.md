@@ -275,9 +275,11 @@ DE-2：平台要与景区周边餐饮和住宿形成合作
 
 ### 3.2.4 用例图
 
-![需求.drawio](/Users/lollipop/Desktop/les-Demand/大作业/第四轮大作业/img/需求.drawio.png)
+![需求.drawio](img/需求.drawio.png)
 
+### 3.3 项目范围
 
+#### 3.3.1 范围列表
 
 ## 4 面谈报告与原型物件：
 
